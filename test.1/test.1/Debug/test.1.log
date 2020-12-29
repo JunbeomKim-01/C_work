@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\estju\source\repos\test.1\test.1\소스.cpp(13,16): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\estju\source\repos\test.1\test.1\소스.cpp(13,11): warning C4309: '=': 상수 값이 잘립니다.
+Debug\소스.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  test.1.vcxproj -> C:\Users\estju\source\repos\test.1\Debug\test.1.exe
